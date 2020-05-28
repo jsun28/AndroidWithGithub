@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         //val text = findViewById<TextView>(R.id.textView)
 
         // for the first commit
+
+        // master tip
     }
 }
