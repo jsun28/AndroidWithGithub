@@ -1,7 +1,8 @@
 package com.example.androidwithgithub
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -9,7 +10,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         // first project on github
+        //val text = findViewById<TextView>(R.id.textView)
+
+        // for the first commit
     }
 }
